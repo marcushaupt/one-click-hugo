@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: one-click-hugo
   branch: main
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
